@@ -7,8 +7,9 @@ Matplotlib is a powerful Python library used for creating data visualizations su
 It helps transform raw data into meaningful visual insights.
 
 
-![Line Chart](matplotlib001.png)
-
+<p align="center">
+  <img src="matplotlib001.png" width="300">
+</p>
 
 📈 Features
 
