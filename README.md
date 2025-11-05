@@ -8,7 +8,7 @@ It helps transform raw data into meaningful visual insights.
 
 
 <p align="center">
-  <img src="matplotlib001.png" width="300">
+  <img src="matplotlib001.png" width="600">
 </p>
 
 📈 Features
