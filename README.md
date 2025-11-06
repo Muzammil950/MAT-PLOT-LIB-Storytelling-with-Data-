@@ -21,7 +21,9 @@ Works seamlessly with NumPy and Pandas
 
 Used for data analysis, reports, and dashboards
 
-![Bar Chart](images/bar_chart.png)
+<p align="center">
+  <img src="matplotlib002.png" width="600">
+</p>
 
 💡 Examples of Charts
 
